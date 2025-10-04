@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['C:\\Users\\faith\\.spyder-py3\\temp.py', 'config.py', 'tokenizer\\tokenizer.py', 'data\\load_pubmed_papers_to_corpus.py', 'data\\create_corpus_from_pdfs.py', 'data\\preprocessing.py', 'tokenizer\\test_tokenizer.py', 'README.md', 'model\\model.py', 'model\\trainer.py', 'data\\data_loader.py', 'gen.py', 'data\\__init__.py', 'C:\\Users\\faith\\AppData\\Local\\miniconda3\\envs\\dp-env\\Lib\\site-packages\\torch\\utils\\data\\dataset.py', 'evaluator.py', 'output\\training_log.log', 'test_classifier.py', 'data\\pubmed_models_cell_collective\\Apoptosis Network_19422837.txt', 'data\\pubmed_models_cell_collective\\Arabidopsis thaliana Cell Cycle_26340681.txt']
+
+[main]
+version = 0.2.0
+recent_files = []
+

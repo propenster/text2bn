@@ -1,0 +1,206 @@
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = Truedev_loss dataset has NOT been loaded before...loading it...***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = Truedev_loss dataset has NOT been loaded before...loading it...***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[0] Best bleu+em changed into 0.00 (bleu: 0.00, em: 0.00)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-best-bleu\checkpoint-last\pytorch_model.bin
+[1] Best ppl changed into 768447.7408
+[1] Best bleu+em (0.00) does not drop changed for 1 epochs, cur bleu+em: 0.00 (bleu: 0.00, em: 0.00)
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-last\pytorch_model.bin
+[2] Best ppl changed into 347.1142
+[2] Best bleu+em changed into 26.67 (bleu: 0.00, em: 26.67)
+Save the best bleu model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-last\pytorch_model.bin
+[3] Best ppl changed into 3.6171
+[3] Best bleu+em changed into 57.33 (bleu: 0.00, em: 57.33)
+Save the best bleu model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-last\pytorch_model.bin
+[4] Best ppl changed into 1.0474
+[4] Best bleu+em changed into 98.67 (bleu: 0.00, em: 98.67)
+Save the best bleu model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-last\pytorch_model.bin
+[5] Best ppl changed into 1.0417
+[5] Best bleu+em changed into 100.00 (bleu: 0.00, em: 100.00)
+Save the best bleu model into output\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\checkpoint-best-ppl\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+***** Running training *****
+  Num examples = 75
+  Batch size = 4
+  Batch num = 19
+  Num epoch = 50
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has NOT been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[0] Best bleu+em changed into 0.00 (bleu: 0.00, em: 0.00)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[1] Best bleu+em (0.00) does not drop changed for 1 epochs, cur bleu+em: 0.00 (bleu: 0.00, em: 0.00)
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[2] Best ppl changed into 674.5232
+[2] Best bleu+em changed into 14.85 (bleu: 0.18, em: 14.67)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[3] Best ppl changed into 5.9329
+[3] Best bleu+em changed into 46.67 (bleu: 0.00, em: 46.67)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[4] Best ppl changed into 1.0564
+[4] Best bleu+em changed into 98.67 (bleu: 0.00, em: 98.67)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[5] Best ppl changed into 1.0414
+[5] Best bleu+em changed into 100.00 (bleu: 0.00, em: 100.00)
+Save the best bleu model into output\checkpoint-best-bleu\pytorch_model.bin
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[6] Best bleu+em (100.00) does not drop changed for 1 epochs, cur bleu+em: 100.00 (bleu: 0.00, em: 100.00)
+Starting training the model...
+do eval is ENABLED = True
+dev_loss dataset has been loaded before...loading it...
+Save the last model into output\checkpoint-last\pytorch_model.bin
+[7] Best bleu+em (100.00) does not drop changed for 2 epochs, cur bleu+em: 100.00 (bleu: 0.00, em: 100.00)
+Starting training the model...
