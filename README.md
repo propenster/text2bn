@@ -16,3 +16,9 @@ conda activate text2bin
 
 * Day 3, I've entered parameter HELL... Time to turn these functions having like 25 arguments into receiving 
 *CLI args via argparse... it's all getting messier at this point
+
+
+## About this project
+A language model to ease extracting Gene REgulatory Networks from any text sources, literature, books etc and standardizing them into a causal logic Boolean Gene Regulatory Model representation.
+
+### This project is ongoing. It's not completed yet.
